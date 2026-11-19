@@ -1,0 +1,12 @@
+# Ava & Joey Jungle Adventure
+
+A 3-level jungle platformer for young kids starring Ava and Joey.
+
+- Collect coins and hidden dinosaur eggs
+- Eat spicy noodles to breathe fire
+- Stomp Mini Carnotaurus
+- Single player or two-player co-op
+- Beat the Giant Carnotaurus and reach the Tree House Castle
+
+Open `index.html` in a browser to play. Works on phones (turn sideways) and with a keyboard:
+P1 Ava: A/D move, W jump, F fire. P2 Joey: arrow keys move/jump, Enter fire.
